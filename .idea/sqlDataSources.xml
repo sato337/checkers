@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="a105320d-e5c1-412e-9332-79e20df0c503" />
+          <option name="name" value="stats" />
+          <option name="dbmsName" value="UNKNOWN" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/stats.sqlite" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
